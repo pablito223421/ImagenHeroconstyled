@@ -13,11 +13,11 @@ interface Hero {
 }
 
 const hero:Hero = {
-  titulo:"playeras navideñas",
-  subtitulo:"Encuentra ropa y calzado para esta navidad.",
-  contenido:"El mejor regalo para la familia y los seres queridos.",
-  textoboton:"Click al videoclip",
-  linkboton:"https://www.youtube.com/watch?v=nM6y5V7oIuE"
+  titulo:"Ropa y Calzado de tus heroes favoritos",
+  subtitulo:"Encuentra ropa y calzado para esta temporada de frío.",
+  contenido:"Las mejores playeras,sudaderas y calzado animado.",
+  textoboton:"Click al video",
+  linkboton:"https://www.universomarvel.com/vistete-de-marvel/"
 };
 
 ReactDOM.render(
